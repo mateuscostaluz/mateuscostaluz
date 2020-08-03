@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👨‍💻 Mateus Costa Luz
 
-<!--
-**mateuscostaluz/mateuscostaluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mateuscostaluz)](https://www.linkedin.com/in/mateuscostaluz)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costaluzmateus@gmail.com)](mailto:costaluzmateus@gmail.com)
 
-Here are some ideas to get you started:
+## Hi 👋,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Mateus Costa Luz, I'm a software development and data analysis intern 👨‍🎓
+
+- 🔭 I have been working with Node.js 
+- 🌱 I'm currently learning more about JavaScript, TypeScript and SQL
+- 💬 Ask me about: rock 🤘, books 📚, animes 📺
+- 😄 Pronouns: he/him
+- ⚡ Languages: Java, JavaScript
+
+> “If I had eight hours to chop down a tree, I’d spend six hours sharpening my axe.” - Abraham Lincoln
+
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mateuscostaluz&count_private=true&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscostaluz&layout=compact" /></td>
+    </tr>
+  </table>
+</center>
