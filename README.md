@@ -7,11 +7,11 @@
 
 I'm Mateus Costa Luz, I'm a software development and data analysis intern 👨‍🎓
 
-- 🔭 I have been working with Node.js 
-- 🌱 I'm currently learning more about JavaScript, TypeScript and SQL
+- 🔭 I have been working with Node.js and SQL
+- 🌱 I'm currently learning more about SQL and Scala
 - 💬 Ask me about: rock 🤘, books 📚, animes 📺
 - 😄 Pronouns: he/him
-- ⚡ Languages: Java, JavaScript
+- ⚡ Languages: Java, JavaScript, SQL, Scala
 
 > “If I had eight hours to chop down a tree, I’d spend six hours sharpening my axe.” - Abraham Lincoln
 
