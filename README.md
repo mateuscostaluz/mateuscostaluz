@@ -5,7 +5,7 @@
 
 ## Hi 👋,
 
-I'm Mateus Costa Luz, I'm a software development and data analysis intern 👨‍🎓
+I'm Mateus Costa Luz, I'm a software development and data engineering intern 👨‍🎓
 
 - 🔭 I have been working with Node.js and SQL
 - 🌱 I'm currently learning more about SQL and Scala
