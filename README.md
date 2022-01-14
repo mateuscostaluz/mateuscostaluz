@@ -7,8 +7,8 @@
 
 I'm Mateus Costa Luz, I'm a software development and data engineering intern 👨‍🎓
 
-- 🔭 I have been working with Node.js and SQL
-- 🌱 I'm currently learning more about SQL and Scala
+- 🔭 I have been working with Big Data and SQL
+- 🌱 I'm currently learning more about SQL and Spark Scala
 - 💬 Ask me about: rock 🤘, books 📚, animes 📺
 - 😄 Pronouns: he/him
 - ⚡ Languages: Java, JavaScript, SQL and Scala
